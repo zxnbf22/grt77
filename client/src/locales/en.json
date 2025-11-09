@@ -1,0 +1,49 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "projects": "My Projects",
+    "skills": "Skills",
+    "contact": "Contact",
+    "teacherLogin": "Teacher Login"
+  },
+  "hero": {
+    "greeting": "Hello, I'm",
+    "title": "Creative Student",
+    "subtitle": "Showcasing my work and projects",
+    "viewProjects": "View Projects"
+  },
+  "about": {
+    "title": "About Me",
+    "description": "I am a passionate student dedicated to learning and development, always striving to improve my skills and create innovative projects."
+  },
+  "projects": {
+    "title": "My Projects",
+    "viewDetails": "View Details"
+  },
+  "skills": {
+    "title": "My Skills"
+  },
+  "contact": {
+    "title": "Contact Me",
+    "email": "Email",
+    "phone": "Phone",
+    "location": "Location"
+  },
+  "teacher": {
+    "title": "Teacher Dashboard",
+    "password": "Password",
+    "login": "Login",
+    "logout": "Logout",
+    "welcome": "Welcome to Teacher Dashboard",
+    "grades": "Grades",
+    "notes": "Notes",
+    "attendance": "Attendance",
+    "wrongPassword": "Incorrect password"
+  },
+  "common": {
+    "close": "Close",
+    "save": "Save",
+    "cancel": "Cancel"
+  }
+}
